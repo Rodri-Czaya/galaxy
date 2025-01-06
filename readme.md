@@ -79,7 +79,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Credits
 
 - All images used are for demonstration purposes
-- Website concept and content created by Rodrigo Cristaldo
+- Website concept and content created by Rodrigo
 
 ---
 *May the Force be with your web development journey!*
@@ -166,7 +166,7 @@ Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LI
 ## Créditos
 
 - Todas las imágenes utilizadas son con fines de demostración
-- Concepto y contenido del sitio web creado por [Tu Nombre]
+- Concepto y contenido del sitio web creado por Rodrigo
 
 ---
 *¡Que la Fuerza te acompañe en tu viaje de desarrollo web!*
