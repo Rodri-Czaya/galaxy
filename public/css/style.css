@@ -73,7 +73,29 @@ nav ul li a:hover {
     color: var(--accent);
 }
 
+/* Reviews styles */
+.review-text {
+    font-style: italic;
+    color: var(--text-primary);
+    margin-bottom: 15px;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: var(--container-bg);
+    border-top: 2px solid var(--primary);
+    text-align: center;
+}
+
 /* Main content styles */
+.main-intro {
+    font-size: 1.25em;
+    line-height: 1.8;
+    margin: 25px 0;
+}
+
 main {
     max-width: 1200px;
     margin: 0 auto;
